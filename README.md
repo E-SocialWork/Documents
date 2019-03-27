@@ -2,8 +2,14 @@
 >Social work is an academic discipline and profession that concerns itself with individuals, families, groups and communities in an effort to enhance social functioning and overall well-being.[Wikipedia](https://en.wikipedia.org/wiki/Social_work)
 
 # Naive Simple Helpful
+Social Work Research:Information technology in human services.
 
 ## Social Work Open Source Projects:
+
+### Project3_Social-Work-CRM
+>Our project is a student resource dashboard for Per Scholas, a nonprofit organization based in the South Bronx. 
+(https://github.com/kaizenagility/Project3_Social-Work-CRM)
+
 ### Mining Minds
 >“Mining Minds” is a novel framework aimed at comprehensively mining human’s daily life data generated from heterogeneous resources for producing personalized health and wellness support.
 (https://github.com/ubiquitous-computing-lab/Mining-Minds) 
