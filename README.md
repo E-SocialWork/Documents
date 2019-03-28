@@ -1,8 +1,8 @@
 
 >Social work is an academic discipline and profession that concerns itself with individuals, families, groups and communities in an effort to enhance social functioning and overall well-being.[Wikipedia](https://en.wikipedia.org/wiki/Social_work)
 
-# Naive Simple Helpful
-Social Work Research:Information technology in human services.
+# Open Simple Helpful
+Social Work Research and Practice:Information technology in human services.
 
 ## Social Work Open Source Projects:
 
