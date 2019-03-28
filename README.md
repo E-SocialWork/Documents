@@ -1,8 +1,10 @@
+# Open Source Social Work
 
 >Social work is an academic discipline and profession that concerns itself with individuals, families, groups and communities in an effort to enhance social functioning and overall well-being.[Wikipedia](https://en.wikipedia.org/wiki/Social_work)
-
-# Open Simple Helpful
+### What We do?
 Social Work Research and Practice:Information technology in human services.
+
+#### Discussion: https://gitter.im/oswc/community
 
 ## Social Work Open Source Projects:
 
