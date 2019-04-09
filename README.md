@@ -33,3 +33,9 @@ https://github.com/BBC-Data-Unit/child-protection-plans
 ## Awesome-Selfhosted
 >It is a list of Free Software network services and web applications which can be hosted locally. Non-Free software is listed on the Non-Free page.
 (https://github.com/Kickball/awesome-selfhosted)
+
+## Awesome Health
+>Curated list of awesome open source healthcare software, libraries, tools and resources. Each link has been vetted to ensure the project is active and provides value to healthcare facilities, providers, developers, policy experts, and/or research scientists.  
+https://github.com/kakoni/awesome-healthcare
+
+
