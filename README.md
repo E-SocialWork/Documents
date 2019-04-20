@@ -23,6 +23,10 @@ https://github.com/BBC-Data-Unit/child-protection-plans
 >“Mining Minds” is a novel framework aimed at comprehensively mining human’s daily life data generated from heterogeneous resources for producing personalized health and wellness support.
 (https://github.com/ubiquitous-computing-lab/Mining-Minds) 
 
+### Riot
+> Riot (formerly known as Vector) is a Matrix web client built using the Matrix React SDK.  
+https://github.com/vector-im/riot-web
+
 ### Discord Selfbot
 >A Discord Selfbot for assisting socially struggling users with processing language
 (https://github.com/IceAmaura/SocialWork)
