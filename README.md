@@ -34,6 +34,10 @@ https://github.com/vector-im/riot-web
 >A simple application using PHP, ZF, JQuery and Bootstrap to aid social workers in organization of clients and tasks
 (https://github.com/scottyadean/socialWorks)
 
+## Awesome Humane Tech  
+> Promoting Solutions that Improve Wellbeing, Freedom and Society  
+(https://github.com/humanetech-community/awesome-humane-tech)
+
 ## Awesome-Selfhosted
 >It is a list of Free Software network services and web applications which can be hosted locally. Non-Free software is listed on the Non-Free page.
 (https://github.com/Kickball/awesome-selfhosted)
