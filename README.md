@@ -23,6 +23,10 @@ https://github.com/BBC-Data-Unit/child-protection-plans
 >“Mining Minds” is a novel framework aimed at comprehensively mining human’s daily life data generated from heterogeneous resources for producing personalized health and wellness support.
 (https://github.com/ubiquitous-computing-lab/Mining-Minds) 
 
+### Project Ana.Chat - Open Source Conversation Suite
+> World's first Open Source Conversation Platform which comes with a Graphical Chat Flow Designer and Chat Simulator. https://www.ana.chat  
+https://github.com/Kitsune-tools/ProjectAna
+
 ### Riot
 > Riot (formerly known as Vector) is a Matrix web client built using the Matrix React SDK.  
 https://github.com/vector-im/riot-web
